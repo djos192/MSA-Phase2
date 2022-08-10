@@ -37,3 +37,5 @@ C:\Projects\Personal\MSA-Submission\MSA-Phase2\Backend\DJAPI\DJAPI\bin\Debug\net
 C:\Projects\Personal\MSA-Submission\MSA-Phase2\Backend\DJAPI\DJAPI\bin\Debug\net6.0\YamlDotNet.dll
 C:\Projects\Personal\MSA-Submission\MSA-Phase2\Backend\DJAPI\DJAPI\obj\Debug\net6.0\DJAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\Personal\MSA-Submission\MSA-Phase2\Backend\DJAPI\DJAPI\obj\Debug\net6.0\DJAPI.csproj.CopyComplete
+C:\Projects\Personal\MSA-Submission\MSA-Phase2\Backend\DJAPI\DJAPI\bin\Debug\net6.0\DJAPI.xml
+C:\Projects\Personal\MSA-Submission\MSA-Phase2\Backend\DJAPI\DJAPI\obj\Debug\net6.0\DJAPI.xml
