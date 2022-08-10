@@ -23,9 +23,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUi3();
 }
 
-builder.services.AddHttpClient("reddit", configureClient: client =>
+builder.services.AddHttpClient(Configuration["RedditClientName"], configureClienclient =>
 {
-    client.BaseAddress = new Uri("https://www.reddit.com/dev/api");
+    client.BaseAddress = new Uri(Configuration["RedditAddress"]);
 });
 
 app.UseHttpsRedirection();
